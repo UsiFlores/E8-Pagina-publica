@@ -1,2 +1,3 @@
-# E8-Pagina-publica
- pagina html para la entrega 8 del equipo 8 
+# INTEGRANTES
+
+- **Alcántara Mendiola Alicia María**: soy una estudiante de Artes Digitales de 5to semestre, tengo 20 años, me gustaría dedicarme a la ilustración y creación de personajes 
