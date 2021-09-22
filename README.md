@@ -11,9 +11,9 @@ Alebrije Artbox
 
 - **Aguilera Rangel Adrián Ricardo**: estudio artes digitales, tengo 23 años, deseo dedicarme a la foto y/o diseño gráfico.
 
--**David Antonio Ramirez Velázquez**: soy estudiante de la licenciatura en Artes digitales, mi mayor aspiración es convertirme en escritor de cine y libros, ilustrador profesional y director de contenido multimedia.
+- **David Antonio Ramirez Velázquez**: soy estudiante de la licenciatura en Artes digitales, mi mayor aspiración es convertirme en escritor de cine y libros, ilustrador profesional y director de contenido multimedia.
 
-**Flores Pinedo Usiel Carolina**: estudiante de Licenciatura en Artes Digitales. Tengo 20 años y me gustaría dedicarme a la ilustración y escritura.
+- **Flores Pinedo Usiel Carolina**: estudiante de Licenciatura en Artes Digitales. Tengo 20 años y me gustaría dedicarme a la ilustración y escritura.
 
  pagina html para la entrega 8 del equipo 8 
 
